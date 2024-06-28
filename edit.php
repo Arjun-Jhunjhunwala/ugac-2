@@ -136,7 +136,7 @@ if (isset($_POST['submit'])){
                     <option value="Hostel 5" <?php if ($hostel == 'Hostel 5') echo 'selected'; ?>>Hostel 5</option>
                     <option value="Hostel 6" <?php if ($hostel == 'Hostel 6') echo 'selected'; ?>>Hostel 6</option>
                     <option value="Hostel 9" <?php if ($hostel == 'Hostel 9') echo 'selected'; ?>>Hostel 9</option>
-                    <option value="Hostel 15" <?php if ($hostel == 'Hostel 15') echo 'selected'; ?>>Hostel 9</option>
+                    <option value="Hostel 15" <?php if ($hostel == 'Hostel 15') echo 'selected'; ?>>Hostel 15</option>
                     <option value="Hostel 16" <?php if ($hostel == 'Hostel 16') echo 'selected'; ?>>Hostel 16</option>
                     <option value="Hostel 17" <?php if ($hostel == 'Hostel 17') echo 'selected'; ?>>Hostel 17</option>
                     <option value="Hostel 18" <?php if ($hostel == 'Hostel 18') echo 'selected'; ?>>Hostel 18</option>
